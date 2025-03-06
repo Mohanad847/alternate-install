@@ -11,4 +11,5 @@ bash parrot-install.sh
 ```
 Note: 
 * Ensure all commands are executed with root privileges.
-* Make sure your system is up to date and has the necessary dependencies installed.
+    * Make sure your system is up to date and has the necessary dependencies installed.
+
